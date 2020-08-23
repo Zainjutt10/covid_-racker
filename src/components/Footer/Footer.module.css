@@ -1,0 +1,10 @@
+.footer{
+    text-align: center;
+    color: teal;
+}
+.image
+{
+    width: 10%;
+    border-radius: 5%;
+    margin: 20px 10px;
+}
